@@ -1,4 +1,4 @@
-FROM python:3.8
+FROM python:3.13.0b1-slim
 
 ENV HOME /root
 WORKDIR /root
